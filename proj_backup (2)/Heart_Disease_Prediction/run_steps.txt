@@ -1,5 +1,0 @@
-1. open the anaconda prompt
-2. activate heart
-3. cd C:\Users\91984\Desktop\Heart_Disease_Prediction
-4. python app.py
-5. copy url from prompt to browser.
