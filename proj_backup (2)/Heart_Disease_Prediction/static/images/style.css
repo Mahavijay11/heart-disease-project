@@ -1,0 +1,46 @@
+body{
+   
+    /* background-image: url('heart image.jpeg'); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+    
+
+}
+div{
+    margin-bottom: 10px;
+}
+label{
+    display: inline-block;
+    width: 200px;
+    color:black;
+    margin-left: 10%; 
+    font-weight: bold;   
+}
+form{
+    /* background-color: rgb(21, 20, 20); */
+    /* opacity: 0.4; */
+    width: 70%;
+    background-image: url('heart image.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    width: 50%;
+    text-shadow:none ;
+    text-decoration: none;
+}
+input:hover{
+    background-color: rgb(239, 239, 245);
+}
+h1{
+    color: white;
+}
+.btn{
+    width: 50%;
+    padding-left: 25%;
+    
+}
+
+
+
